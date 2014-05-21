@@ -1,0 +1,10 @@
+.space {
+	width: 100px;
+	height: 100px;
+	border: 2px solid #3d3d3d;
+	float: left;
+}
+
+.A2 , .A3 {
+	clear: both;
+}
